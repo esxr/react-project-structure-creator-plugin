@@ -1,4 +1,3 @@
-#plugin #experimental 
 # React Project Structure Creator Plugin
 Saves about **an hour** of your time and gives a small dopamine boost :)
 

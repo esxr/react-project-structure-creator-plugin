@@ -1,0 +1,32 @@
+{
+  "name": "react-project-structure-creator",
+  "version": "1.0.0",
+  "description": "This plugin helps in writing basic boilerplate code while setting up a project hierarchy. It is especially useful when creating a project in which you know about the predefined components.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esxr/react-project-structure-creator-plugin.git"
+  },
+  "keywords": [
+    "react",
+    "react-project",
+    "react-project-structure",
+    "project",
+    "structure-generator",
+    "react-generator",
+    "generator",
+    "plugin"
+  ],
+  "author": "Pranav Dhoolia",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/esxr/react-project-structure-creator-plugin/issues"
+  },
+  "homepage": "https://github.com/esxr/react-project-structure-creator-plugin#readme"
+}
